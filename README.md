@@ -1,2 +1,2 @@
 # new_DP
-Starting Dynamic Programing from begging
+Starting Dynamic Programing from beginning
