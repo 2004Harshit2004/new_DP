@@ -15,6 +15,15 @@ ll f(vector<ll> &w,vector<ll> &v, ll W,int i){
     return dp[i][W]=max(v1,v2);
 }
 
+// ll fbu(vector<ll> &w,vector<ll> &v,ll W){
+    
+//     for(int i=1;i<=v.size();++i){
+//         for(int j=1;j<=w.size();++j){
+//             dp[i][w]=max(dp[i-1][w])
+//         }
+//     }
+// }
+
 int main(){
     int n;
     ll W;
